@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tYIagBinWaSwFK9wTOO6+WPwNYNAcswdm+RQ7s6ui3no0T67OZ5GGAN8bOhrGccrJHkLehInJgUDig6owlx+fQ==",
+  "dgSpecHash": "PuQ+NuMmH9MTOaiuXeMMoDRpWDpt40sMtSZ2fiB7IRxtXY7lPb4c2ZJC1AZgpzebJ/OhcAgWRAjaNbYTJjKjmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lucas\\Documents\\dev\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\Users\\Lucas\\Documents\\dev\\csharp-practices\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

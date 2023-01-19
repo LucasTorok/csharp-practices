@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucas\\Documents\\dev\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\Lucas\\Documents\\dev\\csharp-practices\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\Lucas\\Documents\\dev\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\Lucas\\Documents\\dev\\csharp-practices\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucas\\Documents\\dev\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\Lucas\\Documents\\dev\\csharp-practices\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
