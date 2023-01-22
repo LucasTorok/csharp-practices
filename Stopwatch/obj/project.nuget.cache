@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j/1O99yv8wZlZVBX6rpwirI98ESqOjZhtMqilkCf0awZjvdeLe9tB4OF+qAE9C1QuPL93v2G5DL3JYALARnR1Q==",
+  "dgSpecHash": "NhXce3rl2XAsNQyEOz3v2bgsywv6abltWzavR2aAZZMHR0yOyDXyH/CW5QLcFhuMuoHi0P21NCYmJbgO/MRR9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lucas\\Documents\\dev\\Stopwatch\\Stopwatch.csproj",
+  "projectFilePath": "C:\\Users\\Lucas\\Documents\\dev\\csharp-practices\\Stopwatch\\Stopwatch.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
